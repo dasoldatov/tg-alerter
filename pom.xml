@@ -26,11 +26,11 @@
     <repositories>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/iDmitrySoldatov/alor-broker-spring-boot-starter</url>
+            <url>https://maven.pkg.github.com/dasoldatov/alor-broker-spring-boot-starter</url>
         </repository>
         <repository>
             <id>github-common</id>
-            <url>https://maven.pkg.github.com/iDmitrySoldatov/trading-common</url>
+            <url>https://maven.pkg.github.com/dasoldatov/trading-common</url>
         </repository>
     </repositories>
 
